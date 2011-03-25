@@ -1,0 +1,3 @@
+[submodule "vendor/bbcode"]
+	path = vendor/bbcode
+	url = https://github.com/develogix/bbcode.git
